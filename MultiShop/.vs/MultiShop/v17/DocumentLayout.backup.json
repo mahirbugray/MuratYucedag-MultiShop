@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30D9DE2D-DCE3-4E58-A452-8372AB6BE27F}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\rog\\desktop\\softwareprojects\\aspnetcorecalismalarim\\multishop\\identityserver\\multishop.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30D9DE2D-DCE3-4E58-A452-8372AB6BE27F}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BA55DB8-3DFE-4E80-BB70-822EF18CB69C}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\rog\\desktop\\softwareprojects\\aspnetcorecalismalarim\\multishop\\frontends\\multishop.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BA55DB8-3DFE-4E80-BB70-822EF18CB69C}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA55DB8-3DFE-4E80-BB70-822EF18CB69C}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\rog\\desktop\\softwareprojects\\aspnetcorecalismalarim\\multishop\\frontends\\multishop.webui\\views\\shared\\components\\_specialoffercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BA55DB8-3DFE-4E80-BB70-822EF18CB69C}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\views\\shared\\components\\_specialoffercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA55DB8-3DFE-4E80-BB70-822EF18CB69C}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\rog\\desktop\\softwareprojects\\aspnetcorecalismalarim\\multishop\\frontends\\multishop.webui\\views\\shared\\components\\_carouseldefaultcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BA55DB8-3DFE-4E80-BB70-822EF18CB69C}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\views\\shared\\components\\_carouseldefaultcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA55DB8-3DFE-4E80-BB70-822EF18CB69C}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\rog\\desktop\\softwareprojects\\aspnetcorecalismalarim\\multishop\\frontends\\multishop.webui\\viewcomponents\\defaultviewcomponents\\_specialoffercomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA55DB8-3DFE-4E80-BB70-822EF18CB69C}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\viewcomponents\\defaultviewcomponents\\_specialoffercomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Config.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Config.cs",
-              "ToolTip": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Config.cs",
-              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Config.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAowEkAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_SpecialOfferComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_SpecialOfferComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_SpecialOfferComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_SpecialOfferComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T16:10:00.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_SpecialOfferComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\ViewComponents\\DefaultViewComponents\\_SpecialOfferComponentPartial.cs",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\ViewComponents\\DefaultViewComponents\\_SpecialOfferComponentPartial.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\ViewComponents\\DefaultViewComponents\\_SpecialOfferComponentPartial.cs",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\ViewComponents\\DefaultViewComponents\\_SpecialOfferComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T16:13:51.745Z",
+              "WhenOpened": "2025-08-05T16:08:53.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_CarouselDefaultComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_CarouselDefaultComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_CarouselDefaultComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_CarouselDefaultComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T23:53:55.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T23:24:53.571Z",
               "EditorCaption": ""
             }
           ]

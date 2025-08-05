@@ -8,6 +8,7 @@ C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\
 C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Discount\MultiShop.Discount\bin\Debug\net6.0\MultiShop.Discount.pdb
 C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Discount\MultiShop.Discount\bin\Debug\net6.0\Dapper.dll
 C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Discount\MultiShop.Discount\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Discount\MultiShop.Discount\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Discount\MultiShop.Discount\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Discount\MultiShop.Discount\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Discount\MultiShop.Discount\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll

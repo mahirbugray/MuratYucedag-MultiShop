@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "UDijjNXD88w=",
+  "dgSpecHash": "NDZKaF31QIQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ROG\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\ROG\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\ROG\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.36\\microsoft.aspnetcore.authentication.jwtbearer.6.0.36.nupkg.sha512",
     "C:\\Users\\ROG\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.1\\microsoft.bcl.asyncinterfaces.9.0.1.nupkg.sha512",
     "C:\\Users\\ROG\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ROG\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",

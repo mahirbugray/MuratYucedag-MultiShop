@@ -5,6 +5,10 @@
       {
         "Path": "IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj",
+        "Action": "Start"
       }
     ]
   }
