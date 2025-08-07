@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g8NX6sDkUPItjUTMBzHDeJHk6DZv8iJSVSFEKwzbnPc=",
+  "Hash": "M9xgx56KpbpCg1f20r5mnwTQOinCaTD+vRnVw89qeVU=",
   "Source": "MultiShop.WebUI",
   "BasePath": "_content/MultiShop.WebUI",
   "Mode": "Default",
@@ -101,6 +101,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\adidas.png",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/adidas#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "19tp9yofzt",
+      "Integrity": "q+6GIfq7/iqMuiCJv9X8/nhqUyiwp96JDCj5N6CkDUg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\adidas.png"
+    },
+    {
       "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\carousel1.jpg",
       "SourceId": "MultiShop.WebUI",
       "SourceType": "Discovered",
@@ -162,6 +183,195 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Carousel3.png"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\columbia.png",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/columbia#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2ry13moi51",
+      "Integrity": "0p60KAkMZPjyACfbfOwWsXdQW0BifrRT4qFdW7UwRKQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\columbia.png"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\hummel.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/hummel#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n5eirf449d",
+      "Integrity": "1RBNbXZ5gOa1l30GuUR5UXxLF+Om1KJBQzfRtoKk8Fg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hummel.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\ikea.png",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/ikea#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a70rx3smct",
+      "Integrity": "xiaQQA3uFGNItUwAeoPEc6ca2Y5V5nPkm4n+C7fih0Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ikea.png"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\koctas.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/koctas#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jiftrwh6u8",
+      "Integrity": "y/6wnRA+FVsaEnV4tusjeu3RRfX/VPaHTPvKbdTG7zQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\koctas.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\lacoste.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/lacoste#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8ut1ptmm1z",
+      "Integrity": "UHpIfOiQJK1j0uBSmpsCu0U/fh0pwqVDBKmQvsTFp7k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\lacoste.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\nike.png",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/nike#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "02tj73j50s",
+      "Integrity": "KCNJRaif6mSV8/jbC9AW61Lp7xbZLRuUIqmysdg3T4E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\nike.png"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\room2.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/room2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7wahhj7wkk",
+      "Integrity": "mWHwYAhFkdfPJu6JF6CRiHglxK5/8PMLXqLoDKTTeOs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\room2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\room3.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/room3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b1tnaplo8t",
+      "Integrity": "v5DZKQgMT4QnBkXabK/XlUj8HEWQujbTfwzBqfjHJHU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\room3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\womanshopping.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/womanshopping#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5s9c2zlkih",
+      "Integrity": "hbo/+x3nQfZD/nV3NMKhccCj7ZS+EZH2V3R0MMKhXLw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\womanshopping.jpg"
     },
     {
       "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\js\\site.js",
@@ -4782,6 +4992,88 @@
       ]
     },
     {
+      "Route": "images/adidas.19tp9yofzt.png",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\adidas.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q+6GIfq7/iqMuiCJv9X8/nhqUyiwp96JDCj5N6CkDUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "19tp9yofzt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/adidas.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q+6GIfq7/iqMuiCJv9X8/nhqUyiwp96JDCj5N6CkDUg="
+        }
+      ]
+    },
+    {
+      "Route": "images/adidas.png",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\adidas.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q+6GIfq7/iqMuiCJv9X8/nhqUyiwp96JDCj5N6CkDUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q+6GIfq7/iqMuiCJv9X8/nhqUyiwp96JDCj5N6CkDUg="
+        }
+      ]
+    },
+    {
       "Route": "images/carousel1.jpg",
       "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\carousel1.jpg",
       "Selectors": [],
@@ -5024,6 +5316,744 @@
         {
           "Name": "integrity",
           "Value": "sha256-i2h3erI2gI5AorkZuUgWGvCQdycVFYmQXnZuZ/W60WQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/columbia.2ry13moi51.png",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\columbia.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0p60KAkMZPjyACfbfOwWsXdQW0BifrRT4qFdW7UwRKQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2ry13moi51"
+        },
+        {
+          "Name": "label",
+          "Value": "images/columbia.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0p60KAkMZPjyACfbfOwWsXdQW0BifrRT4qFdW7UwRKQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/columbia.png",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\columbia.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0p60KAkMZPjyACfbfOwWsXdQW0BifrRT4qFdW7UwRKQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0p60KAkMZPjyACfbfOwWsXdQW0BifrRT4qFdW7UwRKQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/hummel.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\hummel.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1RBNbXZ5gOa1l30GuUR5UXxLF+Om1KJBQzfRtoKk8Fg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1RBNbXZ5gOa1l30GuUR5UXxLF+Om1KJBQzfRtoKk8Fg="
+        }
+      ]
+    },
+    {
+      "Route": "images/hummel.n5eirf449d.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\hummel.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39100"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1RBNbXZ5gOa1l30GuUR5UXxLF+Om1KJBQzfRtoKk8Fg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n5eirf449d"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hummel.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1RBNbXZ5gOa1l30GuUR5UXxLF+Om1KJBQzfRtoKk8Fg="
+        }
+      ]
+    },
+    {
+      "Route": "images/ikea.a70rx3smct.png",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\ikea.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36722"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xiaQQA3uFGNItUwAeoPEc6ca2Y5V5nPkm4n+C7fih0Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a70rx3smct"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ikea.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xiaQQA3uFGNItUwAeoPEc6ca2Y5V5nPkm4n+C7fih0Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/ikea.png",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\ikea.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36722"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xiaQQA3uFGNItUwAeoPEc6ca2Y5V5nPkm4n+C7fih0Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xiaQQA3uFGNItUwAeoPEc6ca2Y5V5nPkm4n+C7fih0Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/koctas.jiftrwh6u8.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\koctas.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y/6wnRA+FVsaEnV4tusjeu3RRfX/VPaHTPvKbdTG7zQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jiftrwh6u8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/koctas.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y/6wnRA+FVsaEnV4tusjeu3RRfX/VPaHTPvKbdTG7zQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/koctas.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\koctas.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y/6wnRA+FVsaEnV4tusjeu3RRfX/VPaHTPvKbdTG7zQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y/6wnRA+FVsaEnV4tusjeu3RRfX/VPaHTPvKbdTG7zQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/lacoste.8ut1ptmm1z.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\lacoste.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19167"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UHpIfOiQJK1j0uBSmpsCu0U/fh0pwqVDBKmQvsTFp7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ut1ptmm1z"
+        },
+        {
+          "Name": "label",
+          "Value": "images/lacoste.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UHpIfOiQJK1j0uBSmpsCu0U/fh0pwqVDBKmQvsTFp7k="
+        }
+      ]
+    },
+    {
+      "Route": "images/lacoste.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\lacoste.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19167"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UHpIfOiQJK1j0uBSmpsCu0U/fh0pwqVDBKmQvsTFp7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UHpIfOiQJK1j0uBSmpsCu0U/fh0pwqVDBKmQvsTFp7k="
+        }
+      ]
+    },
+    {
+      "Route": "images/nike.02tj73j50s.png",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\nike.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KCNJRaif6mSV8/jbC9AW61Lp7xbZLRuUIqmysdg3T4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "02tj73j50s"
+        },
+        {
+          "Name": "label",
+          "Value": "images/nike.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KCNJRaif6mSV8/jbC9AW61Lp7xbZLRuUIqmysdg3T4E="
+        }
+      ]
+    },
+    {
+      "Route": "images/nike.png",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\nike.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KCNJRaif6mSV8/jbC9AW61Lp7xbZLRuUIqmysdg3T4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KCNJRaif6mSV8/jbC9AW61Lp7xbZLRuUIqmysdg3T4E="
+        }
+      ]
+    },
+    {
+      "Route": "images/room2.7wahhj7wkk.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\room2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mWHwYAhFkdfPJu6JF6CRiHglxK5/8PMLXqLoDKTTeOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7wahhj7wkk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/room2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mWHwYAhFkdfPJu6JF6CRiHglxK5/8PMLXqLoDKTTeOs="
+        }
+      ]
+    },
+    {
+      "Route": "images/room2.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\room2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mWHwYAhFkdfPJu6JF6CRiHglxK5/8PMLXqLoDKTTeOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mWHwYAhFkdfPJu6JF6CRiHglxK5/8PMLXqLoDKTTeOs="
+        }
+      ]
+    },
+    {
+      "Route": "images/room3.b1tnaplo8t.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\room3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "345750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v5DZKQgMT4QnBkXabK/XlUj8HEWQujbTfwzBqfjHJHU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b1tnaplo8t"
+        },
+        {
+          "Name": "label",
+          "Value": "images/room3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v5DZKQgMT4QnBkXabK/XlUj8HEWQujbTfwzBqfjHJHU="
+        }
+      ]
+    },
+    {
+      "Route": "images/room3.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\room3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "345750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v5DZKQgMT4QnBkXabK/XlUj8HEWQujbTfwzBqfjHJHU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v5DZKQgMT4QnBkXabK/XlUj8HEWQujbTfwzBqfjHJHU="
+        }
+      ]
+    },
+    {
+      "Route": "images/womanshopping.5s9c2zlkih.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\womanshopping.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hbo/+x3nQfZD/nV3NMKhccCj7ZS+EZH2V3R0MMKhXLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5s9c2zlkih"
+        },
+        {
+          "Name": "label",
+          "Value": "images/womanshopping.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hbo/+x3nQfZD/nV3NMKhccCj7ZS+EZH2V3R0MMKhXLw="
+        }
+      ]
+    },
+    {
+      "Route": "images/womanshopping.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\womanshopping.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hbo/+x3nQfZD/nV3NMKhccCj7ZS+EZH2V3R0MMKhXLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hbo/+x3nQfZD/nV3NMKhccCj7ZS+EZH2V3R0MMKhXLw="
         }
       ]
     },

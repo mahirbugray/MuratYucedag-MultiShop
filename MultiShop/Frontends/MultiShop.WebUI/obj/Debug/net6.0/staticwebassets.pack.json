@@ -17,12 +17,52 @@
       "PackagePath": "staticwebassets\\images\\Carousel3.png"
     },
     {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\adidas.png",
+      "PackagePath": "staticwebassets\\images\\adidas.png"
+    },
+    {
       "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\carousel1.jpg",
       "PackagePath": "staticwebassets\\images\\carousel1.jpg"
     },
     {
       "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\carousel2.jpg",
       "PackagePath": "staticwebassets\\images\\carousel2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\columbia.png",
+      "PackagePath": "staticwebassets\\images\\columbia.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\hummel.jpg",
+      "PackagePath": "staticwebassets\\images\\hummel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\ikea.png",
+      "PackagePath": "staticwebassets\\images\\ikea.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\koctas.jpg",
+      "PackagePath": "staticwebassets\\images\\koctas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\lacoste.jpg",
+      "PackagePath": "staticwebassets\\images\\lacoste.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\nike.png",
+      "PackagePath": "staticwebassets\\images\\nike.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\room2.jpg",
+      "PackagePath": "staticwebassets\\images\\room2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\room3.jpg",
+      "PackagePath": "staticwebassets\\images\\room3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\womanshopping.jpg",
+      "PackagePath": "staticwebassets\\images\\womanshopping.jpg"
     },
     {
       "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\js\\site.js",
