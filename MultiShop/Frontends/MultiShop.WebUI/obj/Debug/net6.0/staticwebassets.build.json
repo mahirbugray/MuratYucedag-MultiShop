@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M9xgx56KpbpCg1f20r5mnwTQOinCaTD+vRnVw89qeVU=",
+  "Hash": "xter777AErmXdNUb6Z7LF0aQQJihZ/f1Mug7Z9lI6w4=",
   "Source": "MultiShop.WebUI",
   "BasePath": "_content/MultiShop.WebUI",
   "Mode": "Default",
@@ -311,6 +311,132 @@
       "OriginalItemSpec": "wwwroot\\images\\nike.png"
     },
     {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\01.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/productdetaildemoimages/01#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cukrja9v3j",
+      "Integrity": "vLL6wud142OeVeJScTO/dkkJkmSfWb4JmLOE7Xtp/mE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\productdetaildemoimages\\01.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\02.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/productdetaildemoimages/02#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "haqps4n1qh",
+      "Integrity": "p9Le5Epdnc+60aEVStliNu3H9S6/lG8zTfll92lTRm4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\productdetaildemoimages\\02.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\03.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/productdetaildemoimages/03#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "amzdox18or",
+      "Integrity": "kkHVUtdMDYUJcLdwVe5OgTtzOD6N9fANcdi+awDoyPk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\productdetaildemoimages\\03.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\04.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/productdetaildemoimages/04#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a17bo27udw",
+      "Integrity": "XkgmKMtamqRzfPFQD9AwtiXZwRcW65GBJ0tyIb0MHNY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\productdetaildemoimages\\04.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\05.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/productdetaildemoimages/05#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "euou8xvgwv",
+      "Integrity": "RvU0lGdYRnEToeAAXGKTvkOhxuhlHPZJBXFwzOlwnjo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\productdetaildemoimages\\05.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\06.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/productdetaildemoimages/06#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e7xn1oa6m3",
+      "Integrity": "JteHlQxHPqDMEGBL1pOZDlzUt8x42Xg97dwSlFTG8ak=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\productdetaildemoimages\\06.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\room2.jpg",
       "SourceId": "MultiShop.WebUI",
       "SourceType": "Discovered",
@@ -351,6 +477,111 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\room3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun1.png",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/shoppingcartimages/Urun1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "th6rojalyi",
+      "Integrity": "X4KfDY7F0GyrYlbwrNxwIHje/tHC2DdCiHcZjy/Xsgc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shoppingcartimages\\Urun1.png"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun2.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/shoppingcartimages/Urun2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b9b381lju5",
+      "Integrity": "Qej4wHt8VQX1dEquqFOOmg8ifzU/y5FclJ6uFP0/IjM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shoppingcartimages\\Urun2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun3.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/shoppingcartimages/Urun3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2tfgecntgd",
+      "Integrity": "+h3ykaMch9qjJA7caMfNj54NWAaqK3I8QKPEC0rDEUs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shoppingcartimages\\Urun3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun4.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/shoppingcartimages/Urun4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fwq7sr5r65",
+      "Integrity": "EYTXEvKMo5+yCNc02WfdKQVl6BX8sVThR+AkRFE3pUs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shoppingcartimages\\Urun4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun5.jpg",
+      "SourceId": "MultiShop.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\",
+      "BasePath": "_content/MultiShop.WebUI",
+      "RelativePath": "images/shoppingcartimages/Urun5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ctxzhptkw2",
+      "Integrity": "8BphurkYWNMURGB6N4+Ig3nLhhnstXfg4TQT3iUtVPU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shoppingcartimages\\Urun5.jpg"
     },
     {
       "Identity": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\womanshopping.jpg",
@@ -5812,6 +6043,498 @@
       ]
     },
     {
+      "Route": "images/productdetaildemoimages/01.cukrja9v3j.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "495028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLL6wud142OeVeJScTO/dkkJkmSfWb4JmLOE7Xtp/mE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cukrja9v3j"
+        },
+        {
+          "Name": "label",
+          "Value": "images/productdetaildemoimages/01.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLL6wud142OeVeJScTO/dkkJkmSfWb4JmLOE7Xtp/mE="
+        }
+      ]
+    },
+    {
+      "Route": "images/productdetaildemoimages/01.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\01.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "495028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLL6wud142OeVeJScTO/dkkJkmSfWb4JmLOE7Xtp/mE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLL6wud142OeVeJScTO/dkkJkmSfWb4JmLOE7Xtp/mE="
+        }
+      ]
+    },
+    {
+      "Route": "images/productdetaildemoimages/02.haqps4n1qh.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p9Le5Epdnc+60aEVStliNu3H9S6/lG8zTfll92lTRm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "haqps4n1qh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/productdetaildemoimages/02.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p9Le5Epdnc+60aEVStliNu3H9S6/lG8zTfll92lTRm4="
+        }
+      ]
+    },
+    {
+      "Route": "images/productdetaildemoimages/02.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p9Le5Epdnc+60aEVStliNu3H9S6/lG8zTfll92lTRm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p9Le5Epdnc+60aEVStliNu3H9S6/lG8zTfll92lTRm4="
+        }
+      ]
+    },
+    {
+      "Route": "images/productdetaildemoimages/03.amzdox18or.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkHVUtdMDYUJcLdwVe5OgTtzOD6N9fANcdi+awDoyPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "amzdox18or"
+        },
+        {
+          "Name": "label",
+          "Value": "images/productdetaildemoimages/03.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkHVUtdMDYUJcLdwVe5OgTtzOD6N9fANcdi+awDoyPk="
+        }
+      ]
+    },
+    {
+      "Route": "images/productdetaildemoimages/03.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkHVUtdMDYUJcLdwVe5OgTtzOD6N9fANcdi+awDoyPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkHVUtdMDYUJcLdwVe5OgTtzOD6N9fANcdi+awDoyPk="
+        }
+      ]
+    },
+    {
+      "Route": "images/productdetaildemoimages/04.a17bo27udw.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\04.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XkgmKMtamqRzfPFQD9AwtiXZwRcW65GBJ0tyIb0MHNY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a17bo27udw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/productdetaildemoimages/04.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XkgmKMtamqRzfPFQD9AwtiXZwRcW65GBJ0tyIb0MHNY="
+        }
+      ]
+    },
+    {
+      "Route": "images/productdetaildemoimages/04.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\04.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XkgmKMtamqRzfPFQD9AwtiXZwRcW65GBJ0tyIb0MHNY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XkgmKMtamqRzfPFQD9AwtiXZwRcW65GBJ0tyIb0MHNY="
+        }
+      ]
+    },
+    {
+      "Route": "images/productdetaildemoimages/05.euou8xvgwv.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\05.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RvU0lGdYRnEToeAAXGKTvkOhxuhlHPZJBXFwzOlwnjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "euou8xvgwv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/productdetaildemoimages/05.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RvU0lGdYRnEToeAAXGKTvkOhxuhlHPZJBXFwzOlwnjo="
+        }
+      ]
+    },
+    {
+      "Route": "images/productdetaildemoimages/05.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\05.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RvU0lGdYRnEToeAAXGKTvkOhxuhlHPZJBXFwzOlwnjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RvU0lGdYRnEToeAAXGKTvkOhxuhlHPZJBXFwzOlwnjo="
+        }
+      ]
+    },
+    {
+      "Route": "images/productdetaildemoimages/06.e7xn1oa6m3.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\06.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JteHlQxHPqDMEGBL1pOZDlzUt8x42Xg97dwSlFTG8ak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e7xn1oa6m3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/productdetaildemoimages/06.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JteHlQxHPqDMEGBL1pOZDlzUt8x42Xg97dwSlFTG8ak="
+        }
+      ]
+    },
+    {
+      "Route": "images/productdetaildemoimages/06.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\06.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JteHlQxHPqDMEGBL1pOZDlzUt8x42Xg97dwSlFTG8ak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JteHlQxHPqDMEGBL1pOZDlzUt8x42Xg97dwSlFTG8ak="
+        }
+      ]
+    },
+    {
       "Route": "images/room2.7wahhj7wkk.jpg",
       "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\room2.jpg",
       "Selectors": [],
@@ -5972,6 +6695,416 @@
         {
           "Name": "integrity",
           "Value": "sha256-v5DZKQgMT4QnBkXabK/XlUj8HEWQujbTfwzBqfjHJHU="
+        }
+      ]
+    },
+    {
+      "Route": "images/shoppingcartimages/Urun1.png",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X4KfDY7F0GyrYlbwrNxwIHje/tHC2DdCiHcZjy/Xsgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X4KfDY7F0GyrYlbwrNxwIHje/tHC2DdCiHcZjy/Xsgc="
+        }
+      ]
+    },
+    {
+      "Route": "images/shoppingcartimages/Urun1.th6rojalyi.png",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X4KfDY7F0GyrYlbwrNxwIHje/tHC2DdCiHcZjy/Xsgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "th6rojalyi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shoppingcartimages/Urun1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X4KfDY7F0GyrYlbwrNxwIHje/tHC2DdCiHcZjy/Xsgc="
+        }
+      ]
+    },
+    {
+      "Route": "images/shoppingcartimages/Urun2.b9b381lju5.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qej4wHt8VQX1dEquqFOOmg8ifzU/y5FclJ6uFP0/IjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b9b381lju5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shoppingcartimages/Urun2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qej4wHt8VQX1dEquqFOOmg8ifzU/y5FclJ6uFP0/IjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/shoppingcartimages/Urun2.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qej4wHt8VQX1dEquqFOOmg8ifzU/y5FclJ6uFP0/IjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qej4wHt8VQX1dEquqFOOmg8ifzU/y5FclJ6uFP0/IjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/shoppingcartimages/Urun3.2tfgecntgd.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "170164"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+h3ykaMch9qjJA7caMfNj54NWAaqK3I8QKPEC0rDEUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2tfgecntgd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shoppingcartimages/Urun3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+h3ykaMch9qjJA7caMfNj54NWAaqK3I8QKPEC0rDEUs="
+        }
+      ]
+    },
+    {
+      "Route": "images/shoppingcartimages/Urun3.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "170164"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+h3ykaMch9qjJA7caMfNj54NWAaqK3I8QKPEC0rDEUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+h3ykaMch9qjJA7caMfNj54NWAaqK3I8QKPEC0rDEUs="
+        }
+      ]
+    },
+    {
+      "Route": "images/shoppingcartimages/Urun4.fwq7sr5r65.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "222838"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EYTXEvKMo5+yCNc02WfdKQVl6BX8sVThR+AkRFE3pUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwq7sr5r65"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shoppingcartimages/Urun4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EYTXEvKMo5+yCNc02WfdKQVl6BX8sVThR+AkRFE3pUs="
+        }
+      ]
+    },
+    {
+      "Route": "images/shoppingcartimages/Urun4.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "222838"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EYTXEvKMo5+yCNc02WfdKQVl6BX8sVThR+AkRFE3pUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EYTXEvKMo5+yCNc02WfdKQVl6BX8sVThR+AkRFE3pUs="
+        }
+      ]
+    },
+    {
+      "Route": "images/shoppingcartimages/Urun5.ctxzhptkw2.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8BphurkYWNMURGB6N4+Ig3nLhhnstXfg4TQT3iUtVPU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctxzhptkw2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shoppingcartimages/Urun5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8BphurkYWNMURGB6N4+Ig3nLhhnstXfg4TQT3iUtVPU="
+        }
+      ]
+    },
+    {
+      "Route": "images/shoppingcartimages/Urun5.jpg",
+      "AssetFile": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8BphurkYWNMURGB6N4+Ig3nLhhnstXfg4TQT3iUtVPU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 09:25:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8BphurkYWNMURGB6N4+Ig3nLhhnstXfg4TQT3iUtVPU="
         }
       ]
     },

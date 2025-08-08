@@ -53,12 +53,56 @@
       "PackagePath": "staticwebassets\\images\\nike.png"
     },
     {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\productdetaildemoimages\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\productdetaildemoimages\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\productdetaildemoimages\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\productdetaildemoimages\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\productdetaildemoimages\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\productdetaildemoimages\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\productdetaildemoimages\\06.jpg"
+    },
+    {
       "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\room2.jpg",
       "PackagePath": "staticwebassets\\images\\room2.jpg"
     },
     {
       "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\room3.jpg",
       "PackagePath": "staticwebassets\\images\\room3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun1.png",
+      "PackagePath": "staticwebassets\\images\\shoppingcartimages\\Urun1.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun2.jpg",
+      "PackagePath": "staticwebassets\\images\\shoppingcartimages\\Urun2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun3.jpg",
+      "PackagePath": "staticwebassets\\images\\shoppingcartimages\\Urun3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun4.jpg",
+      "PackagePath": "staticwebassets\\images\\shoppingcartimages\\Urun4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\shoppingcartimages\\Urun5.jpg",
+      "PackagePath": "staticwebassets\\images\\shoppingcartimages\\Urun5.jpg"
     },
     {
       "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\womanshopping.jpg",
