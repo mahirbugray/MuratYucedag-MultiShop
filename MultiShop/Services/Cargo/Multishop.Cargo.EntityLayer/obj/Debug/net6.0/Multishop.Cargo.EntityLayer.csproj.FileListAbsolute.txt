@@ -1,0 +1,14 @@
+C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Cargo\Multishop.Cargo.EntityLayer\bin\Debug\net6.0\Multishop.Cargo.EntityLayer.deps.json
+C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Cargo\Multishop.Cargo.EntityLayer\bin\Debug\net6.0\Multishop.Cargo.EntityLayer.runtimeconfig.json
+C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Cargo\Multishop.Cargo.EntityLayer\bin\Debug\net6.0\Multishop.Cargo.EntityLayer.dll
+C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Cargo\Multishop.Cargo.EntityLayer\bin\Debug\net6.0\Multishop.Cargo.EntityLayer.pdb
+C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Cargo\Multishop.Cargo.EntityLayer\obj\Debug\net6.0\Multishop.Cargo.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Cargo\Multishop.Cargo.EntityLayer\obj\Debug\net6.0\Multishop.Cargo.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Cargo\Multishop.Cargo.EntityLayer\obj\Debug\net6.0\Multishop.Cargo.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Cargo\Multishop.Cargo.EntityLayer\obj\Debug\net6.0\Multishop.Cargo.EntityLayer.AssemblyInfo.cs
+C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Cargo\Multishop.Cargo.EntityLayer\obj\Debug\net6.0\Multishop.Cargo.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Cargo\Multishop.Cargo.EntityLayer\obj\Debug\net6.0\Multishop.Cargo.EntityLayer.dll
+C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Cargo\Multishop.Cargo.EntityLayer\obj\Debug\net6.0\refint\Multishop.Cargo.EntityLayer.dll
+C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Cargo\Multishop.Cargo.EntityLayer\obj\Debug\net6.0\Multishop.Cargo.EntityLayer.pdb
+C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Cargo\Multishop.Cargo.EntityLayer\obj\Debug\net6.0\Multishop.Cargo.EntityLayer.genruntimeconfig.cache
+C:\Users\ROG\Desktop\SoftwareProjects\AspNetCoreCalismalarim\MultiShop\Services\Cargo\Multishop.Cargo.EntityLayer\obj\Debug\net6.0\ref\Multishop.Cargo.EntityLayer.dll
