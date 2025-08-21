@@ -9,6 +9,9 @@ wwwroot\images\hummel.jpg
 wwwroot\images\ikea.png
 wwwroot\images\koctas.jpg
 wwwroot\images\lacoste.jpg
+wwwroot\images\logos\manlogo.jpg
+wwwroot\images\logos\mulhtishop1.jpg
+wwwroot\images\logos\MULTISHOPPNG.png
 wwwroot\images\nike.png
 wwwroot\images\productdetaildemoimages\01.jpg
 wwwroot\images\productdetaildemoimages\02.jpg

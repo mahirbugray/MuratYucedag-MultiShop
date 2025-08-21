@@ -1173,6 +1173,18 @@
       "PackagePath": "staticwebassets\\images\\lacoste.jpg"
     },
     {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\logos\\MULTISHOPPNG.png",
+      "PackagePath": "staticwebassets\\images\\logos\\MULTISHOPPNG.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\logos\\manlogo.jpg",
+      "PackagePath": "staticwebassets\\images\\logos\\manlogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\logos\\mulhtishop1.jpg",
+      "PackagePath": "staticwebassets\\images\\logos\\mulhtishop1.jpg"
+    },
+    {
       "Id": "C:\\Users\\ROG\\Desktop\\SoftwareProjects\\AspNetCoreCalismalarim\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\images\\nike.png",
       "PackagePath": "staticwebassets\\images\\nike.png"
     },
